@@ -21,7 +21,7 @@ class email extends CI_Controller
     public function index()
     {
 
-
+//        Testing OneTwo
 
         $config = array(
             'protocol' => 'smtp',
